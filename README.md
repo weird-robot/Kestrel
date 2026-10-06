@@ -60,7 +60,7 @@ documents weaknesses; it does not act on them.
 
 ## Project background
 
-Built as a school project demonstrating recon-stage ethical hacking:
+Built as a project demonstrating recon-stage ethical hacking:
 port scanning, service fingerprinting, web security auditing, and OSINT
 username enumeration, with a built-in permission gate.
 
